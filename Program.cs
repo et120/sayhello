@@ -12,6 +12,6 @@ Console.Clear();
 
 Console.WriteLine("Hi friend what is your first name?");
 
-string firstName = Console.ReadLine();
+string? firstName = Console.ReadLine();
 
 Console.WriteLine("Hello " + firstName);
