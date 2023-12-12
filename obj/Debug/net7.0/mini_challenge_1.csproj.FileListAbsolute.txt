@@ -1,0 +1,28 @@
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\mini_challenge_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\mini_challenge_1.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\mini_challenge_1.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\mini_challenge_1.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\bin\Debug\net7.0\mini_challenge_1.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\bin\Debug\net7.0\mini_challenge_1.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\bin\Debug\net7.0\mini_challenge_1.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\bin\Debug\net7.0\mini_challenge_1.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\bin\Debug\net7.0\mini_challenge_1.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\mini_challenge_1.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\refint\mini_challenge_1.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\mini_challenge_1.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\mini_challenge_1.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\mini_challenge_1\obj\Debug\net7.0\ref\mini_challenge_1.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\bin\Debug\net7.0\mini_challenge_1.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\bin\Debug\net7.0\mini_challenge_1.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\bin\Debug\net7.0\mini_challenge_1.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\bin\Debug\net7.0\mini_challenge_1.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\bin\Debug\net7.0\mini_challenge_1.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\mini_challenge_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\mini_challenge_1.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\mini_challenge_1.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\mini_challenge_1.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\mini_challenge_1.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\refint\mini_challenge_1.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\mini_challenge_1.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\mini_challenge_1.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 1\GitHub Repos 12.12.2023\sayhello\obj\Debug\net7.0\ref\mini_challenge_1.dll
